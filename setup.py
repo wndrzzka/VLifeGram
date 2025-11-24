@@ -38,13 +38,13 @@ if len(argv) > 1 and argv[1] in ["bdist_wheel", "install", "develop"]:
     errors_compiler.start()
 
 setup(
-    name="VLife-Gram",
+    name="VLifeGram",
     version=version,
     description="Elegant, modern and asynchronous Telegram MTProto API framework in Python",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/wndrzzka/pyromod",
-    download_url=f"https://github.com/wndrzzka/pyromod/releases/tag/v{version}",
+    url="https://github.com/wndrzzka/VLifeGram",
+    download_url=f"https://github.com/wndrzzka/VLifeGram/releases/tag/v{version}",
     author="WannnV",
     author_email="wannfyy@gmail.com",
     license="LGPLv3",
