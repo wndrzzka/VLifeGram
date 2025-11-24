@@ -34,6 +34,8 @@
 > **Support & Updates:** [t.me/WannnKW](https://t.me/WannnKW)
 >
 > Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+> Support Effect Emoji in chat
+> Stabil & Power Full
 
 ``` python
 from pyrogram import Client, filters
