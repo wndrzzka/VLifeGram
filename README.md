@@ -76,7 +76,7 @@ For support regarding this modified version, please contact: t.me/WannnKW
 ### Installing
 
 ``` bash
-pip3 install VLife-Gram
+pip3 install VLifeGram
 ```
 
 ### Resources
